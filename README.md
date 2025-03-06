@@ -4,7 +4,7 @@ A simple weather application that provides real-time weather updates using an ex
 
 ### Features
 - Fetches real-time weather data
-- 
+  
 - Displays temperature, humidity, wind speed, and weather conditions
 
 - Supports searching for different locations
